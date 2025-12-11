@@ -1,0 +1,16 @@
+{
+  "name": "sxidhxss-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "baileys": "^6.5.0",
+    "express": "^4.18.2",
+    "pino": "^8.15.0"
+  },
+  "engines": {
+    "node": "20.18.3"
+  }
+}
