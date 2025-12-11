@@ -83,7 +83,7 @@ async function startBot() {
       }
       
       if (text === ".owner") {
-        sock.sendMessage(chat, { text: "👑 Owner: +255763789948" });
+        sock.sendMessage(chat, { text: "👑 Owner: +255778271055" });
       }
     });
     
